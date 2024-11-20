@@ -24,10 +24,18 @@ export const AccommodationsSupport = () => {
           <h2>Playas</h2>
 
           <ul>
-            <li>Playa el Tunco</li>
-            <li>Playa el Sunzal</li>
-            <li>Playa el Zonte</li>
-            <li>Playa el Majahual</li>
+            <li>El Zapote</li>
+            <li>Barra de Santiago</li>
+            <li>Los Cobanos</li>
+            <li>Miravalle</li>
+            <li>Mizata</li>
+            <li>Taquilo</li>
+            <li>El Zonte</li>
+            <li>Atami</li>
+            <li>Xanadu</li>
+            <li>Sol y Mar</li>
+            <li>El Aunzal</li>
+            <li>El Tunco</li>
           </ul>
         </div>
 
@@ -35,10 +43,16 @@ export const AccommodationsSupport = () => {
           <h2>Montañas</h2>
 
           <ul>
-            <li>Playa el Tunco</li>
-            <li>Playa el Sunzal</li>
-            <li>Playa el Zonte</li>
-            <li>Playa el Majahual</li>
+            <li>Cerro Verde</li>
+            <li>San Lorenzo</li>
+            <li>Azacualpa</li>
+            <li>Apaneca</li>
+            <li>Juayúa</li>
+            <li>Salcoatitan</li>
+            <li>Perquin</li>
+            <li>San Fernando</li>
+            <li>Santa Rosa de Lima</li>
+            <li>Miramundo</li>
           </ul>
         </div>
 
@@ -48,17 +62,8 @@ export const AccommodationsSupport = () => {
           <ul>
             <li>Coatepeque</li>
             <li>Ilopango</li>
-          </ul>
-        </div>
-
-        <div>
-          <h2>Lagunas</h2>
-
-          <ul>
-            <li>Playa el Tunco</li>
-            <li>Playa el Sunzal</li>
-            <li>Playa el Zonte</li>
-            <li>Playa el Majahual</li>
+            <li>Suchitoto</li>
+            <li>Suchitlán</li>
           </ul>
         </div>
 
@@ -66,10 +71,11 @@ export const AccommodationsSupport = () => {
           <h2>Otros</h2>
 
           <ul>
-            <li>Playa el Tunco</li>
-            <li>Playa el Sunzal</li>
-            <li>Playa el Zonte</li>
-            <li>Playa el Majahual</li>
+            <li>El Congo</li>
+            <li>Santa Ana</li>
+            <li>San Pedro Perulapan</li>
+            <li>Camino a Candelaria</li>
+            <li>San Francisco Chinameca</li>
           </ul>
         </div>
       </div>
