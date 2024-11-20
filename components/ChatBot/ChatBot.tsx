@@ -57,7 +57,7 @@ export const ChatBot = () => {
   };
 
   const renderMessage = (message: string) => {
-    const urlRegex = /(http:\/\/localhost:3000\/accommodation\/\d+)/g;
+    const urlRegex = /(https:\/\/pre-webapp.vercel.app\/accommodation\/\d+)/g;
     const parts = message.split(urlRegex);
     const uniqueUrls = new Set<string>();
 
